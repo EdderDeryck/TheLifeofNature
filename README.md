@@ -23,7 +23,7 @@ Este projeto tem como principal objetivo **praticar a criação de um site do ze
 
 ## 🔗 Acesse o site
 
-[➡️ Clique aqui para visualizar](https://seu-usuario.github.io/vida-da-natureza)
+[➡️ Clique aqui para visualizar][(https://seu-usuario.github.io/vida-da-natureza)](https://edderderyck.github.io/TheLifeofNature/)
 
 _(substitua com seu link real quando publicar no GitHub Pages)_
 
