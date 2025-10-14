@@ -214,3 +214,19 @@ footer a {
     padding: 100px 20px 40px;
   }
 }
+/* Justificar texto da seção "Importância da Natureza" */
+#importancia p,
+#importancia .dados li {
+  text-align: justify;
+}
+
+#importancia p,
+#importancia .dados {
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 18px;
+}
+#importancia ul {
+  list-style-type: disc;
+  padding-left: 20px;
+} 
