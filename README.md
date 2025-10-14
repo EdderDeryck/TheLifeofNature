@@ -23,4 +23,4 @@ Este projeto tem como principal objetivo **praticar a criação de um site do ze
 
 ## 🔗 Acesse o site
 
-[➡️ Clique aqui para visualizar][(https://seu-usuario.github.io/vida-da-natureza)](https://edderderyck.github.io/TheLifeofNature/)
+[➡️ Clique aqui para visualizar](https://edderderyck.github.io/TheLifeofNature/)
