@@ -229,3 +229,87 @@ footer a {
   list-style-type: disc;
   padding-left: 20px;
 } 
+ul {
+  text-align: justify;
+}
+ul li {
+  margin-bottom: 10px;
+}
+#curiosidades ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+#curiosidades ul li {
+  margin-bottom: 10px;
+}
+#curiosidades ul {
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 18px;
+}
+#curiosidades ul li {
+  margin-bottom: 10px;
+}
+#curiosidades p {
+  text-align: justify;
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 18px;
+}
+#curiosidades ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+#curiosidades ul li {
+  margin-bottom: 10px;
+}
+#curiosidades ul {
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 18px;
+}
+#curiosidades ul li {
+  margin-bottom: 10px;
+}
+#impacto p,
+#impacto .dados li {
+  text-align: justify;
+}
+#impacto p,
+#impacto .dados {
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 18px;
+}
+#impacto ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+#impacto ul li {
+  margin-bottom: 10px;
+}
+#impacto ul {
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 18px;
+}
+#impacto ul li {
+  margin-bottom: 10px;
+}
+#sobre p,
+#sobre .dados li {
+  text-align: justify;
+}
+#sobre p,
+#sobre .dados {
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 18px;
+}
+#sobre ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+#sobre ul li {
+  margin-bottom: 10px;
+} 
